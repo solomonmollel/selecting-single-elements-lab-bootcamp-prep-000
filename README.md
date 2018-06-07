@@ -1,4 +1,6 @@
-<h1> adele-goldberg-simplified Selecting Elements Lab
+<h1> adele-goldberg-simplified
+</h1>
+href="https://en.wikipedia.org/Computer_scientist>Selecting Elements Lab
 
 ### Introduction
 
