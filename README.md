@@ -1,4 +1,4 @@
-## Selecting Elements Lab
+<h1> adele-goldberg-simplified Selecting Elements Lab
 
 ### Introduction
 
